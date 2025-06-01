@@ -40,10 +40,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/forof/RiderProjects/IgrejaPortodaCruz/IgrejaPortodaCruz/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/forof/RiderProjects/IgrejaPortodaCruz/IgrejaPortodaCruz/Components/Pages/NavBarContent/Contact.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOYXZCYXJDb250ZW50XENvbnRhY3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -72,6 +68,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOYXZCYXJDb250ZW50XE5ld3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/forof/RiderProjects/IgrejaPortodaCruz/IgrejaPortodaCruz/Components/Pages/NavBarContent/ScheduleMass.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOYXZCYXJDb250ZW50XFNjaGVkdWxlTWFzcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/forof/RiderProjects/IgrejaPortodaCruz/IgrejaPortodaCruz/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -91,3 +91,11 @@ build_metadata.AdditionalFiles.CssScope = b-oqsyr8yzaa
 [C:/Users/forof/RiderProjects/IgrejaPortodaCruz/IgrejaPortodaCruz/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-16irr7fz44
+
+[C:/Users/forof/RiderProjects/IgrejaPortodaCruz/IgrejaPortodaCruz/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-oxz3270lpf
+
+[C:/Users/forof/RiderProjects/IgrejaPortodaCruz/IgrejaPortodaCruz/Components/Pages/LanguageSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMYW5ndWFnZVNlbGVjdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-hzbur3h8md

@@ -36,18 +36,6 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qniy0byts6"},{"Name":"integrity","Value":"sha256-CgFhNOT1RI3tkYPNTrn4M1GUc9lKYxoNh78h9D\u002BgJHw="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/assets/icons/instagram.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"42247"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022CgFhNOT1RI3tkYPNTrn4M1GUc9lKYxoNh78h9D\u002BgJHw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 12:13:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/cruz.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cruz.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lbWBc\u002BP0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2901"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022lbWBc\u002BP0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:50:24 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/cruz.t2nzu2vxpk.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cruz.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t2nzu2vxpk"},{"Name":"integrity","Value":"sha256-lbWBc\u002BP0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/cruz.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2901"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022lbWBc\u002BP0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:50:24 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/favicon.ifv42okdf2.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -61,16 +49,100 @@
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:47:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/IgrejaPortodaCruz.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IgrejaPortodaCruz.txxl6teb96.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IgrejaPortodaCruz.stmtz0v4cy.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EZleJ7iVdQVjRgx4v\u002BGBQ1WFhxy8bGN3V49JZmZd80w="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6421"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EZleJ7iVdQVjRgx4v\u002BGBQ1WFhxy8bGN3V49JZmZd80w=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 12:20:48 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0AvW1\u002BwlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7633"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220AvW1\u002BwlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:19:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/IgrejaPortodaCruz.txxl6teb96.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IgrejaPortodaCruz.txxl6teb96.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/IgrejaPortodaCruz.stmtz0v4cy.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IgrejaPortodaCruz.stmtz0v4cy.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"txxl6teb96"},{"Name":"integrity","Value":"sha256-EZleJ7iVdQVjRgx4v\u002BGBQ1WFhxy8bGN3V49JZmZd80w="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/IgrejaPortodaCruz.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6421"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EZleJ7iVdQVjRgx4v\u002BGBQ1WFhxy8bGN3V49JZmZd80w=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 12:20:48 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"stmtz0v4cy"},{"Name":"integrity","Value":"sha256-0AvW1\u002BwlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/IgrejaPortodaCruz.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7633"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220AvW1\u002BwlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:19:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/cruz.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\cruz.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lbWBc\u002BP0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2901"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022lbWBc\u002BP0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:50:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/cruz.t2nzu2vxpk.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\cruz.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t2nzu2vxpk"},{"Name":"integrity","Value":"sha256-lbWBc\u002BP0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/img/cruz.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2901"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022lbWBc\u002BP0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 11:50:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/flags/de.othd1kzbz7.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\flags\de.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"othd1kzbz7"},{"Name":"integrity","Value":"sha256-fPxy2aQS4DhY6c\u002B/65Mx7yusER5ePVBa/1V1KV\u002Bp1Go="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/img/flags/de.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12997"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022fPxy2aQS4DhY6c\u002B/65Mx7yusER5ePVBa/1V1KV\u002Bp1Go=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:14:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/flags/de.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\flags\de.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fPxy2aQS4DhY6c\u002B/65Mx7yusER5ePVBa/1V1KV\u002Bp1Go="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12997"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022fPxy2aQS4DhY6c\u002B/65Mx7yusER5ePVBa/1V1KV\u002Bp1Go=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:14:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/flags/es.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\flags\es.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tSUuiF7vQWaZWD4JYQXij\u002BB2enUrnX7/98Y9JU7D5YY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"44583"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tSUuiF7vQWaZWD4JYQXij\u002BB2enUrnX7/98Y9JU7D5YY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:14:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/flags/es.v73o48paes.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\flags\es.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v73o48paes"},{"Name":"integrity","Value":"sha256-tSUuiF7vQWaZWD4JYQXij\u002BB2enUrnX7/98Y9JU7D5YY="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/img/flags/es.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44583"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tSUuiF7vQWaZWD4JYQXij\u002BB2enUrnX7/98Y9JU7D5YY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:14:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/flags/fr.l2zu6d6aky.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\flags\fr.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l2zu6d6aky"},{"Name":"integrity","Value":"sha256-DQdfguK09Pp2IQGulUiKQl0t\u002BfQMW34SCVRQnGNYeb8="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/img/flags/fr.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16395"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022DQdfguK09Pp2IQGulUiKQl0t\u002BfQMW34SCVRQnGNYeb8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:14:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/flags/fr.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\flags\fr.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DQdfguK09Pp2IQGulUiKQl0t\u002BfQMW34SCVRQnGNYeb8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16395"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022DQdfguK09Pp2IQGulUiKQl0t\u002BfQMW34SCVRQnGNYeb8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:14:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/flags/pt.4rb96qu19m.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\flags\pt.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4rb96qu19m"},{"Name":"integrity","Value":"sha256-wDHYsLfGG81LJV5eMtTlZRDVYiYzSVdNovvc3Z/C6rQ="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/img/flags/pt.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"31015"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wDHYsLfGG81LJV5eMtTlZRDVYiYzSVdNovvc3Z/C6rQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:14:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/flags/pt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\flags\pt.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wDHYsLfGG81LJV5eMtTlZRDVYiYzSVdNovvc3Z/C6rQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"31015"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022wDHYsLfGG81LJV5eMtTlZRDVYiYzSVdNovvc3Z/C6rQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:14:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/flags/uk.ao6d3gp76h.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\flags\uk.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ao6d3gp76h"},{"Name":"integrity","Value":"sha256-9ikZEmBCliuqGiBP5jmkdnIdgzWZMuUyLqjrr4FIqgU="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/img/flags/uk.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30368"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229ikZEmBCliuqGiBP5jmkdnIdgzWZMuUyLqjrr4FIqgU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:13:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/flags/uk.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\flags\uk.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9ikZEmBCliuqGiBP5jmkdnIdgzWZMuUyLqjrr4FIqgU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30368"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229ikZEmBCliuqGiBP5jmkdnIdgzWZMuUyLqjrr4FIqgU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 13:13:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/js/language-selector.h4jc4ejy4z.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\language-selector.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h4jc4ejy4z"},{"Name":"integrity","Value":"sha256-L\u002BgoFrEgkdb\u002BC79tLzSH2Ifgwp1HFZtw/DhECRcbVKk="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/js/language-selector.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5340"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022L\u002BgoFrEgkdb\u002BC79tLzSH2Ifgwp1HFZtw/DhECRcbVKk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 14:11:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/js/language-selector.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\language-selector.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-L\u002BgoFrEgkdb\u002BC79tLzSH2Ifgwp1HFZtw/DhECRcbVKk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5340"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022L\u002BgoFrEgkdb\u002BC79tLzSH2Ifgwp1HFZtw/DhECRcbVKk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 14:11:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/lib/bootstrap/dist/css/bootstrap-grid.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

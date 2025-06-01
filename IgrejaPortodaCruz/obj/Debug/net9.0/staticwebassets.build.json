@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mZPHeSt7cgUX2SWH/cLNejSrfnwf6FOEtAYAw3tznVw=",
+  "Hash": "CZq1YJxgPDpvjYFyNF1SQtpyvCDF80FaLusqsiOdxo4=",
   "Source": "IgrejaPortodaCruz",
   "BasePath": "_content/IgrejaPortodaCruz",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\0t6sevo14s-txxl6teb96.gz",
+      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\0t6sevo14s-stmtz0v4cy.gz",
       "SourceId": "IgrejaPortodaCruz",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/IgrejaPortodaCruz",
-      "RelativePath": "IgrejaPortodaCruz#[.{fingerprint=txxl6teb96}]!.bundle.scp.css.gz",
+      "RelativePath": "IgrejaPortodaCruz#[.{fingerprint=stmtz0v4cy}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\IgrejaPortodaCruz.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "w2wrqyx67c",
-      "Integrity": "2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E=",
+      "Fingerprint": "fy9ewcpaju",
+      "Integrity": "5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\IgrejaPortodaCruz.bundle.scp.css"
@@ -80,12 +80,12 @@
       "OriginalItemSpec": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\17rbgett5j-txxl6teb96.gz",
+      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\17rbgett5j-stmtz0v4cy.gz",
       "SourceId": "IgrejaPortodaCruz",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/IgrejaPortodaCruz",
-      "RelativePath": "IgrejaPortodaCruz#[.{fingerprint=txxl6teb96}]?.styles.css.gz",
+      "RelativePath": "IgrejaPortodaCruz#[.{fingerprint=stmtz0v4cy}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -94,8 +94,8 @@
       "RelatedAsset": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\bundle\\IgrejaPortodaCruz.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "w2wrqyx67c",
-      "Integrity": "2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E=",
+      "Fingerprint": "fy9ewcpaju",
+      "Integrity": "5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\bundle\\IgrejaPortodaCruz.styles.css"
@@ -225,6 +225,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\85wacs4prm-h4jc4ejy4z.gz",
+      "SourceId": "IgrejaPortodaCruz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/IgrejaPortodaCruz",
+      "RelativePath": "js/language-selector#[.{fingerprint=h4jc4ejy4z}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\js\\language-selector.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "plrp8uhuld",
+      "Integrity": "A9i8gAsifrqA+3Kg1GZkmGo6LtnXERCMYnGoRfhML/8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\js\\language-selector.js"
     },
     {
       "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\9sens3gv5y-0j3bgjxly4.gz",
@@ -1018,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "txxl6teb96",
-      "Integrity": "EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w=",
+      "Fingerprint": "stmtz0v4cy",
+      "Integrity": "0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\bundle\\IgrejaPortodaCruz.styles.css"
@@ -1039,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "txxl6teb96",
-      "Integrity": "EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w=",
+      "Fingerprint": "stmtz0v4cy",
+      "Integrity": "0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\IgrejaPortodaCruz.bundle.scp.css"
@@ -1109,27 +1130,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\icons\\instagram.png"
     },
     {
-      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\cruz.png",
-      "SourceId": "IgrejaPortodaCruz",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\",
-      "BasePath": "_content/IgrejaPortodaCruz",
-      "RelativePath": "cruz#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "t2nzu2vxpk",
-      "Integrity": "lbWBc+P0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\cruz.png"
-    },
-    {
       "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\favicon.png",
       "SourceId": "IgrejaPortodaCruz",
       "SourceType": "Discovered",
@@ -1149,6 +1149,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\cruz.png",
+      "SourceId": "IgrejaPortodaCruz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\",
+      "BasePath": "_content/IgrejaPortodaCruz",
+      "RelativePath": "img/cruz#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t2nzu2vxpk",
+      "Integrity": "lbWBc+P0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cruz.png"
+    },
+    {
+      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\de.png",
+      "SourceId": "IgrejaPortodaCruz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\",
+      "BasePath": "_content/IgrejaPortodaCruz",
+      "RelativePath": "img/flags/de#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "othd1kzbz7",
+      "Integrity": "fPxy2aQS4DhY6c+/65Mx7yusER5ePVBa/1V1KV+p1Go=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\flags\\de.png"
+    },
+    {
+      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\es.png",
+      "SourceId": "IgrejaPortodaCruz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\",
+      "BasePath": "_content/IgrejaPortodaCruz",
+      "RelativePath": "img/flags/es#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v73o48paes",
+      "Integrity": "tSUuiF7vQWaZWD4JYQXij+B2enUrnX7/98Y9JU7D5YY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\flags\\es.png"
+    },
+    {
+      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\fr.png",
+      "SourceId": "IgrejaPortodaCruz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\",
+      "BasePath": "_content/IgrejaPortodaCruz",
+      "RelativePath": "img/flags/fr#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2zu6d6aky",
+      "Integrity": "DQdfguK09Pp2IQGulUiKQl0t+fQMW34SCVRQnGNYeb8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\flags\\fr.png"
+    },
+    {
+      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\pt.png",
+      "SourceId": "IgrejaPortodaCruz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\",
+      "BasePath": "_content/IgrejaPortodaCruz",
+      "RelativePath": "img/flags/pt#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4rb96qu19m",
+      "Integrity": "wDHYsLfGG81LJV5eMtTlZRDVYiYzSVdNovvc3Z/C6rQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\flags\\pt.png"
+    },
+    {
+      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\uk.png",
+      "SourceId": "IgrejaPortodaCruz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\",
+      "BasePath": "_content/IgrejaPortodaCruz",
+      "RelativePath": "img/flags/uk#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ao6d3gp76h",
+      "Integrity": "9ikZEmBCliuqGiBP5jmkdnIdgzWZMuUyLqjrr4FIqgU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\flags\\uk.png"
+    },
+    {
+      "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\js\\language-selector.js",
+      "SourceId": "IgrejaPortodaCruz",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\",
+      "BasePath": "_content/IgrejaPortodaCruz",
+      "RelativePath": "js/language-selector#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h4jc4ejy4z",
+      "Integrity": "L+goFrEgkdb+C79tLzSH2Ifgwp1HFZtw/DhECRcbVKk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\language-selector.js"
     },
     {
       "Identity": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -2539,88 +2686,6 @@
       ]
     },
     {
-      "Route": "cruz.png",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\cruz.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2901"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lbWBc+P0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 11:50:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lbWBc+P0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk="
-        }
-      ]
-    },
-    {
-      "Route": "cruz.t2nzu2vxpk.png",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\cruz.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2901"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lbWBc+P0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 11:50:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t2nzu2vxpk"
-        },
-        {
-          "Name": "label",
-          "Value": "cruz.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lbWBc+P0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk="
-        }
-      ]
-    },
-    {
       "Route": "favicon.ifv42okdf2.png",
       "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\favicon.png",
       "Selectors": [],
@@ -2704,12 +2769,12 @@
     },
     {
       "Route": "IgrejaPortodaCruz.bundle.scp.css",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\0t6sevo14s-txxl6teb96.gz",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\0t6sevo14s-stmtz0v4cy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000532197978"
+          "Quality": "0.000457665904"
         }
       ],
       "ResponseHeaders": [
@@ -2719,15 +2784,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1878"
+          "Value": "2184"
         },
         {
           "Name": "ETag",
-          "Value": "\"2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E=\""
+          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2747,13 +2812,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w=\""
+          "Value": "W/\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w="
+          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
         }
       ]
     },
@@ -2768,7 +2833,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6421"
+          "Value": "7633"
         },
         {
           "Name": "Content-Type",
@@ -2776,11 +2841,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w=\""
+          "Value": "\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2790,13 +2855,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w="
+          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
         }
       ]
     },
     {
       "Route": "IgrejaPortodaCruz.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\0t6sevo14s-txxl6teb96.gz",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\0t6sevo14s-stmtz0v4cy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2805,7 +2870,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1878"
+          "Value": "2184"
         },
         {
           "Name": "Content-Type",
@@ -2813,11 +2878,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E=\""
+          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2835,18 +2900,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E="
+          "Value": "sha256-5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U="
         }
       ]
     },
     {
-      "Route": "IgrejaPortodaCruz.styles.css",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\17rbgett5j-txxl6teb96.gz",
+      "Route": "IgrejaPortodaCruz.stmtz0v4cy.bundle.scp.css",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\0t6sevo14s-stmtz0v4cy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000532197978"
+          "Quality": "0.000457665904"
         }
       ],
       "ResponseHeaders": [
@@ -2856,152 +2921,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1878"
+          "Value": "2184"
         },
         {
           "Name": "ETag",
-          "Value": "\"2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E=\""
+          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w="
-        }
-      ]
-    },
-    {
-      "Route": "IgrejaPortodaCruz.styles.css",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\bundle\\IgrejaPortodaCruz.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6421"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w="
-        }
-      ]
-    },
-    {
-      "Route": "IgrejaPortodaCruz.styles.css.gz",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\17rbgett5j-txxl6teb96.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1878"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E="
-        }
-      ]
-    },
-    {
-      "Route": "IgrejaPortodaCruz.txxl6teb96.bundle.scp.css",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\0t6sevo14s-txxl6teb96.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000532197978"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1878"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,13 +2949,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w=\""
+          "Value": "W/\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "txxl6teb96"
+          "Value": "stmtz0v4cy"
         },
         {
           "Name": "label",
@@ -3035,12 +2963,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w="
+          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
         }
       ]
     },
     {
-      "Route": "IgrejaPortodaCruz.txxl6teb96.bundle.scp.css",
+      "Route": "IgrejaPortodaCruz.stmtz0v4cy.bundle.scp.css",
       "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\IgrejaPortodaCruz.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3050,7 +2978,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6421"
+          "Value": "7633"
         },
         {
           "Name": "Content-Type",
@@ -3058,11 +2986,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w=\""
+          "Value": "\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3072,7 +3000,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "txxl6teb96"
+          "Value": "stmtz0v4cy"
         },
         {
           "Name": "label",
@@ -3080,13 +3008,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w="
+          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
         }
       ]
     },
     {
-      "Route": "IgrejaPortodaCruz.txxl6teb96.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\0t6sevo14s-txxl6teb96.gz",
+      "Route": "IgrejaPortodaCruz.stmtz0v4cy.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\0t6sevo14s-stmtz0v4cy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3095,7 +3023,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1878"
+          "Value": "2184"
         },
         {
           "Name": "Content-Type",
@@ -3103,11 +3031,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E=\""
+          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3125,7 +3053,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "txxl6teb96"
+          "Value": "stmtz0v4cy"
         },
         {
           "Name": "label",
@@ -3133,18 +3061,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E="
+          "Value": "sha256-5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U="
         }
       ]
     },
     {
-      "Route": "IgrejaPortodaCruz.txxl6teb96.styles.css",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\17rbgett5j-txxl6teb96.gz",
+      "Route": "IgrejaPortodaCruz.stmtz0v4cy.styles.css",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\17rbgett5j-stmtz0v4cy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000532197978"
+          "Quality": "0.000457665904"
         }
       ],
       "ResponseHeaders": [
@@ -3154,15 +3082,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1878"
+          "Value": "2184"
         },
         {
           "Name": "ETag",
-          "Value": "\"2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E=\""
+          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3182,13 +3110,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w=\""
+          "Value": "W/\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "txxl6teb96"
+          "Value": "stmtz0v4cy"
         },
         {
           "Name": "label",
@@ -3196,12 +3124,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w="
+          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
         }
       ]
     },
     {
-      "Route": "IgrejaPortodaCruz.txxl6teb96.styles.css",
+      "Route": "IgrejaPortodaCruz.stmtz0v4cy.styles.css",
       "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\bundle\\IgrejaPortodaCruz.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3211,7 +3139,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6421"
+          "Value": "7633"
         },
         {
           "Name": "Content-Type",
@@ -3219,11 +3147,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w=\""
+          "Value": "\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3233,7 +3161,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "txxl6teb96"
+          "Value": "stmtz0v4cy"
         },
         {
           "Name": "label",
@@ -3241,13 +3169,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EZleJ7iVdQVjRgx4v+GBQ1WFhxy8bGN3V49JZmZd80w="
+          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
         }
       ]
     },
     {
-      "Route": "IgrejaPortodaCruz.txxl6teb96.styles.css.gz",
-      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\17rbgett5j-txxl6teb96.gz",
+      "Route": "IgrejaPortodaCruz.stmtz0v4cy.styles.css.gz",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\17rbgett5j-stmtz0v4cy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3256,7 +3184,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1878"
+          "Value": "2184"
         },
         {
           "Name": "Content-Type",
@@ -3264,11 +3192,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E=\""
+          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 12:20:48 GMT"
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3286,7 +3214,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "txxl6teb96"
+          "Value": "stmtz0v4cy"
         },
         {
           "Name": "label",
@@ -3294,7 +3222,934 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2HLqq0PMOaTFly+ha583g1QODFgjxM9V/DpcUT3Yb8E="
+          "Value": "sha256-5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U="
+        }
+      ]
+    },
+    {
+      "Route": "IgrejaPortodaCruz.styles.css",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\17rbgett5j-stmtz0v4cy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000457665904"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2184"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
+        }
+      ]
+    },
+    {
+      "Route": "IgrejaPortodaCruz.styles.css",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\bundle\\IgrejaPortodaCruz.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
+        }
+      ]
+    },
+    {
+      "Route": "IgrejaPortodaCruz.styles.css.gz",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\17rbgett5j-stmtz0v4cy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U="
+        }
+      ]
+    },
+    {
+      "Route": "img/cruz.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\cruz.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lbWBc+P0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:50:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lbWBc+P0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk="
+        }
+      ]
+    },
+    {
+      "Route": "img/cruz.t2nzu2vxpk.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\cruz.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lbWBc+P0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 11:50:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2nzu2vxpk"
+        },
+        {
+          "Name": "label",
+          "Value": "img/cruz.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lbWBc+P0MT5hUds/BlNHXii4y7abJJAYub4D2bKp2fk="
+        }
+      ]
+    },
+    {
+      "Route": "img/flags/de.othd1kzbz7.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\de.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fPxy2aQS4DhY6c+/65Mx7yusER5ePVBa/1V1KV+p1Go=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:14:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "othd1kzbz7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/flags/de.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fPxy2aQS4DhY6c+/65Mx7yusER5ePVBa/1V1KV+p1Go="
+        }
+      ]
+    },
+    {
+      "Route": "img/flags/de.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\de.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fPxy2aQS4DhY6c+/65Mx7yusER5ePVBa/1V1KV+p1Go=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:14:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fPxy2aQS4DhY6c+/65Mx7yusER5ePVBa/1V1KV+p1Go="
+        }
+      ]
+    },
+    {
+      "Route": "img/flags/es.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\es.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSUuiF7vQWaZWD4JYQXij+B2enUrnX7/98Y9JU7D5YY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSUuiF7vQWaZWD4JYQXij+B2enUrnX7/98Y9JU7D5YY="
+        }
+      ]
+    },
+    {
+      "Route": "img/flags/es.v73o48paes.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\es.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSUuiF7vQWaZWD4JYQXij+B2enUrnX7/98Y9JU7D5YY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v73o48paes"
+        },
+        {
+          "Name": "label",
+          "Value": "img/flags/es.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSUuiF7vQWaZWD4JYQXij+B2enUrnX7/98Y9JU7D5YY="
+        }
+      ]
+    },
+    {
+      "Route": "img/flags/fr.l2zu6d6aky.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\fr.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQdfguK09Pp2IQGulUiKQl0t+fQMW34SCVRQnGNYeb8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:14:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2zu6d6aky"
+        },
+        {
+          "Name": "label",
+          "Value": "img/flags/fr.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQdfguK09Pp2IQGulUiKQl0t+fQMW34SCVRQnGNYeb8="
+        }
+      ]
+    },
+    {
+      "Route": "img/flags/fr.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\fr.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQdfguK09Pp2IQGulUiKQl0t+fQMW34SCVRQnGNYeb8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:14:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQdfguK09Pp2IQGulUiKQl0t+fQMW34SCVRQnGNYeb8="
+        }
+      ]
+    },
+    {
+      "Route": "img/flags/pt.4rb96qu19m.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\pt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wDHYsLfGG81LJV5eMtTlZRDVYiYzSVdNovvc3Z/C6rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:14:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4rb96qu19m"
+        },
+        {
+          "Name": "label",
+          "Value": "img/flags/pt.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wDHYsLfGG81LJV5eMtTlZRDVYiYzSVdNovvc3Z/C6rQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/flags/pt.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\pt.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wDHYsLfGG81LJV5eMtTlZRDVYiYzSVdNovvc3Z/C6rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:14:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wDHYsLfGG81LJV5eMtTlZRDVYiYzSVdNovvc3Z/C6rQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/flags/uk.ao6d3gp76h.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\uk.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ikZEmBCliuqGiBP5jmkdnIdgzWZMuUyLqjrr4FIqgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:13:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ao6d3gp76h"
+        },
+        {
+          "Name": "label",
+          "Value": "img/flags/uk.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ikZEmBCliuqGiBP5jmkdnIdgzWZMuUyLqjrr4FIqgU="
+        }
+      ]
+    },
+    {
+      "Route": "img/flags/uk.png",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\uk.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ikZEmBCliuqGiBP5jmkdnIdgzWZMuUyLqjrr4FIqgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 13:13:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ikZEmBCliuqGiBP5jmkdnIdgzWZMuUyLqjrr4FIqgU="
+        }
+      ]
+    },
+    {
+      "Route": "js/language-selector.h4jc4ejy4z.js",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\85wacs4prm-h4jc4ejy4z.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000587544066"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1701"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A9i8gAsifrqA+3Kg1GZkmGo6LtnXERCMYnGoRfhML/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 14:11:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"L+goFrEgkdb+C79tLzSH2Ifgwp1HFZtw/DhECRcbVKk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4jc4ejy4z"
+        },
+        {
+          "Name": "label",
+          "Value": "js/language-selector.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L+goFrEgkdb+C79tLzSH2Ifgwp1HFZtw/DhECRcbVKk="
+        }
+      ]
+    },
+    {
+      "Route": "js/language-selector.h4jc4ejy4z.js",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\js\\language-selector.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L+goFrEgkdb+C79tLzSH2Ifgwp1HFZtw/DhECRcbVKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 14:11:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4jc4ejy4z"
+        },
+        {
+          "Name": "label",
+          "Value": "js/language-selector.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L+goFrEgkdb+C79tLzSH2Ifgwp1HFZtw/DhECRcbVKk="
+        }
+      ]
+    },
+    {
+      "Route": "js/language-selector.h4jc4ejy4z.js.gz",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\85wacs4prm-h4jc4ejy4z.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A9i8gAsifrqA+3Kg1GZkmGo6LtnXERCMYnGoRfhML/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 14:11:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4jc4ejy4z"
+        },
+        {
+          "Name": "label",
+          "Value": "js/language-selector.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A9i8gAsifrqA+3Kg1GZkmGo6LtnXERCMYnGoRfhML/8="
+        }
+      ]
+    },
+    {
+      "Route": "js/language-selector.js",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\85wacs4prm-h4jc4ejy4z.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000587544066"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1701"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A9i8gAsifrqA+3Kg1GZkmGo6LtnXERCMYnGoRfhML/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 14:11:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"L+goFrEgkdb+C79tLzSH2Ifgwp1HFZtw/DhECRcbVKk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L+goFrEgkdb+C79tLzSH2Ifgwp1HFZtw/DhECRcbVKk="
+        }
+      ]
+    },
+    {
+      "Route": "js/language-selector.js",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\js\\language-selector.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L+goFrEgkdb+C79tLzSH2Ifgwp1HFZtw/DhECRcbVKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 14:11:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L+goFrEgkdb+C79tLzSH2Ifgwp1HFZtw/DhECRcbVKk="
+        }
+      ]
+    },
+    {
+      "Route": "js/language-selector.js.gz",
+      "AssetFile": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\compressed\\85wacs4prm-h4jc4ejy4z.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A9i8gAsifrqA+3Kg1GZkmGo6LtnXERCMYnGoRfhML/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 14:11:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A9i8gAsifrqA+3Kg1GZkmGo6LtnXERCMYnGoRfhML/8="
         }
       ]
     },

@@ -1,0 +1,117 @@
+@using IgrejaPortodaCruz.Services.Language
+@using Microsoft.JSInterop
+@inject IJSRuntime JSRuntime
+
+<div class="flags-container">
+    @foreach (var language in Languages)
+    {
+        <div class="flag @(language.Selected ? "selected" : "")"
+             @onclick="() => SelectLanguage(language)">
+            <img src="@language.FlagUrl" alt="@language.Name" />
+            <span>@language.Name</span>
+        </div>
+    }
+</div>
+
+@if (IsLoading)
+{
+    <div class="loading-indicator">
+        <small>Loading translator...</small>
+    </div>
+}
+
+@code {
+
+
+    private List<Language> Languages = new()
+    {
+        new Language { Name = "English", FlagUrl = "img/flags/uk.png", Code = "en", Selected = false },
+        new Language { Name = "Español", FlagUrl = "img/flags/es.png", Code = "es", Selected = false },
+        new Language { Name = "Français", FlagUrl = "img/flags/fr.png", Code = "fr", Selected = false },
+        new Language { Name = "Deutsch", FlagUrl = "img/flags/de.png", Code = "de", Selected = false },
+        new Language { Name = "Português", FlagUrl = "img/flags/pt.png", Code = "pt", Selected = true }
+    };
+
+    private bool IsLoading = false;
+    private bool IsInitialized = false;
+    private DotNetObjectReference<LanguageSelector>? objRef;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            objRef = DotNetObjectReference.Create(this);
+            await JSRuntime.InvokeVoidAsync("languageSelector.init", objRef);
+            await InitializeTranslator();
+        }
+    }
+
+    private async Task InitializeTranslator()
+    {
+        try
+        {
+            IsLoading = true;
+            StateHasChanged();
+            
+            var result = await JSRuntime.InvokeAsync<bool>("languageSelector.initGoogleTranslate");
+            IsInitialized = result;
+            Console.WriteLine($"Google Translate initialized: {result}");
+        }
+        catch (JSException jsEx)
+        {
+            Console.WriteLine($"JS Error: {jsEx.Message}");
+            await JSRuntime.InvokeVoidAsync("languageSelector.diagnose");
+        }
+        finally
+        {
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+
+    private async Task SelectLanguage(Language selectedLang)
+    {
+        if (IsLoading || selectedLang.Selected) return;
+
+        try
+        {
+            IsLoading = true;
+            StateHasChanged();
+
+            if (!IsInitialized)
+            {
+                await InitializeTranslator();
+                if (!IsInitialized) return;
+            }
+
+            var success = await JSRuntime.InvokeAsync<bool>(
+                "languageSelector.changeLanguage", 
+                selectedLang.Code
+            );
+
+            if (success)
+            {
+                Languages.ForEach(l => l.Selected = false);
+                selectedLang.Selected = true;
+            }
+        }
+        finally
+        {
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+
+    [JSInvokable]
+    public void HandleTranslationComplete(string languageCode)
+    {
+        Languages.ForEach(l => l.Selected = l.Code == languageCode);
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        objRef?.Dispose();
+        _ = JSRuntime.InvokeVoidAsync("languageSelector.dispose");
+    }
+}
