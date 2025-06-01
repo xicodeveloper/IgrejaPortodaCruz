@@ -202,6 +202,9 @@ C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\IgrejaPo.8469FBF2.Up2Date
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\scopedcss\Components\Pages\LanguageSelector.razor.rz.scp.css
-C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\17rbgett5j-stmtz0v4cy.gz
-C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\0t6sevo14s-stmtz0v4cy.gz
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\85wacs4prm-h4jc4ejy4z.gz
+C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\scopedcss\Components\Pages\NavBarContent\History.razor.rz.scp.css
+C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\scopedcss\Components\Pages\NavBarContent\Galeria.razor.rz.scp.css
+C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\ys83ybs621-62zmg0sd1z.gz
+C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\17rbgett5j-zjs6546tuj.gz
+C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\0t6sevo14s-zjs6546tuj.gz

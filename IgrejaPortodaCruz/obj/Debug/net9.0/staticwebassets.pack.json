@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\IgrejaPortodaCruz.bundle.scp.css",
-      "PackagePath": "staticwebassets\\IgrejaPortodaCruz.stmtz0v4cy.bundle.scp.css"
+      "PackagePath": "staticwebassets\\IgrejaPortodaCruz.zjs6546tuj.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\app.css",
@@ -19,6 +19,14 @@
     {
       "Id": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\P-Cruz.jpg",
+      "PackagePath": "staticwebassets\\img\\P-Cruz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\adro.jpg",
+      "PackagePath": "staticwebassets\\img\\adro.jpg"
     },
     {
       "Id": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\cruz.png",
@@ -43,6 +51,10 @@
     {
       "Id": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\img\\flags\\uk.png",
       "PackagePath": "staticwebassets\\img\\flags\\uk.png"
+    },
+    {
+      "Id": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\js\\carousel.js",
+      "PackagePath": "staticwebassets\\js\\carousel.js"
     },
     {
       "Id": "C:\\Users\\forof\\RiderProjects\\IgrejaPortodaCruz\\IgrejaPortodaCruz\\wwwroot\\js\\language-selector.js",

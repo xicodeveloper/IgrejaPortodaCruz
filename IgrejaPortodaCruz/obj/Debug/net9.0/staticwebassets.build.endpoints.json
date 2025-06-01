@@ -3,174 +3,13 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "IgrejaPortodaCruz.stmtz0v4cy.styles.css",
-      "AssetFile": "IgrejaPortodaCruz.styles.css.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000457665904"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2184"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "stmtz0v4cy"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
-        },
-        {
-          "Name": "label",
-          "Value": "IgrejaPortodaCruz.styles.css"
-        }
-      ]
-    },
-    {
-      "Route": "IgrejaPortodaCruz.stmtz0v4cy.styles.css",
-      "AssetFile": "IgrejaPortodaCruz.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7633"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "stmtz0v4cy"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
-        },
-        {
-          "Name": "label",
-          "Value": "IgrejaPortodaCruz.styles.css"
-        }
-      ]
-    },
-    {
-      "Route": "IgrejaPortodaCruz.stmtz0v4cy.styles.css.gz",
-      "AssetFile": "IgrejaPortodaCruz.styles.css.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2184"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "stmtz0v4cy"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U="
-        },
-        {
-          "Name": "label",
-          "Value": "IgrejaPortodaCruz.styles.css.gz"
-        }
-      ]
-    },
-    {
       "Route": "IgrejaPortodaCruz.styles.css",
       "AssetFile": "IgrejaPortodaCruz.styles.css.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000457665904"
+          "Quality": "0.000193535901"
         }
       ],
       "ResponseHeaders": [
@@ -188,7 +27,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2184"
+          "Value": "5166"
         },
         {
           "Name": "Content-Type",
@@ -196,15 +35,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
+          "Value": "\"HargvJcKGQOTTi3U6U79cIYuQ83uzVN2zkkiFwVSc+Y=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
+          "Value": "W/\"8dQ+nY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
+          "Value": "Sun, 01 Jun 2025 15:23:57 GMT"
         },
         {
           "Name": "Vary",
@@ -214,7 +53,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
+          "Value": "sha256-8dQ+nY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc="
         }
       ]
     },
@@ -233,7 +72,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7633"
+          "Value": "25024"
         },
         {
           "Name": "Content-Type",
@@ -241,17 +80,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU=\""
+          "Value": "\"8dQ+nY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
+          "Value": "Sun, 01 Jun 2025 15:23:57 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0AvW1+wlwmR5NYsHCPT02uU6iedp25FiQxFZNYkZveU="
+          "Value": "sha256-8dQ+nY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc="
         }
       ]
     },
@@ -274,7 +113,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2184"
+          "Value": "5166"
         },
         {
           "Name": "Content-Type",
@@ -282,11 +121,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U=\""
+          "Value": "\"HargvJcKGQOTTi3U6U79cIYuQ83uzVN2zkkiFwVSc+Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Jun 2025 13:19:49 GMT"
+          "Value": "Sun, 01 Jun 2025 15:23:57 GMT"
         },
         {
           "Name": "Vary",
@@ -296,7 +135,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5wlAjtF+CFc/KE4u4ULQM6ioxYA+Y0JpqaERSTMwr8U="
+          "Value": "sha256-HargvJcKGQOTTi3U6U79cIYuQ83uzVN2zkkiFwVSc+Y="
+        }
+      ]
+    },
+    {
+      "Route": "IgrejaPortodaCruz.zjs6546tuj.styles.css",
+      "AssetFile": "IgrejaPortodaCruz.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000193535901"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HargvJcKGQOTTi3U6U79cIYuQ83uzVN2zkkiFwVSc+Y=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8dQ+nY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 15:23:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjs6546tuj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8dQ+nY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc="
+        },
+        {
+          "Name": "label",
+          "Value": "IgrejaPortodaCruz.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "IgrejaPortodaCruz.zjs6546tuj.styles.css",
+      "AssetFile": "IgrejaPortodaCruz.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8dQ+nY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 15:23:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjs6546tuj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8dQ+nY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc="
+        },
+        {
+          "Name": "label",
+          "Value": "IgrejaPortodaCruz.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "IgrejaPortodaCruz.zjs6546tuj.styles.css.gz",
+      "AssetFile": "IgrejaPortodaCruz.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HargvJcKGQOTTi3U6U79cIYuQ83uzVN2zkkiFwVSc+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 15:23:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjs6546tuj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HargvJcKGQOTTi3U6U79cIYuQ83uzVN2zkkiFwVSc+Y="
+        },
+        {
+          "Name": "label",
+          "Value": "IgrejaPortodaCruz.styles.css.gz"
         }
       ]
     },
@@ -845,6 +845,170 @@
       ]
     },
     {
+      "Route": "img/P-Cruz.0k3bhc3jwc.jpg",
+      "AssetFile": "img/P-Cruz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wDdXiucCao8zDgEmTIrQQIKMBfGr4VGYw3drPg7vfPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 14:22:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0k3bhc3jwc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wDdXiucCao8zDgEmTIrQQIKMBfGr4VGYw3drPg7vfPo="
+        },
+        {
+          "Name": "label",
+          "Value": "img/P-Cruz.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/P-Cruz.jpg",
+      "AssetFile": "img/P-Cruz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wDdXiucCao8zDgEmTIrQQIKMBfGr4VGYw3drPg7vfPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 14:22:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wDdXiucCao8zDgEmTIrQQIKMBfGr4VGYw3drPg7vfPo="
+        }
+      ]
+    },
+    {
+      "Route": "img/adro.77h7op0ycs.jpg",
+      "AssetFile": "img/adro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LREpCWkkIQLVj5z7gQTb50Q+rmuCAYAKc7E9VyqKR/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 14:51:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "77h7op0ycs"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LREpCWkkIQLVj5z7gQTb50Q+rmuCAYAKc7E9VyqKR/Q="
+        },
+        {
+          "Name": "label",
+          "Value": "img/adro.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/adro.jpg",
+      "AssetFile": "img/adro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LREpCWkkIQLVj5z7gQTb50Q+rmuCAYAKc7E9VyqKR/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 14:51:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LREpCWkkIQLVj5z7gQTb50Q+rmuCAYAKc7E9VyqKR/Q="
+        }
+      ]
+    },
+    {
       "Route": "img/cruz.png",
       "AssetFile": "img/cruz.png",
       "Selectors": [],
@@ -1333,6 +1497,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-9ikZEmBCliuqGiBP5jmkdnIdgzWZMuUyLqjrr4FIqgU="
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.62zmg0sd1z.js",
+      "AssetFile": "js/carousel.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001012145749"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c6ZMYU+JuhlACXalftYykZP+VLGGBcKy4UkgtUudaYE=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/mpmil35UVxtfHs9piIqCefLmgl+w4F7Z/ZPDOgMP2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 15:16:44 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "62zmg0sd1z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/mpmil35UVxtfHs9piIqCefLmgl+w4F7Z/ZPDOgMP2k="
+        },
+        {
+          "Name": "label",
+          "Value": "js/carousel.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.62zmg0sd1z.js",
+      "AssetFile": "js/carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/mpmil35UVxtfHs9piIqCefLmgl+w4F7Z/ZPDOgMP2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 15:16:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "62zmg0sd1z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/mpmil35UVxtfHs9piIqCefLmgl+w4F7Z/ZPDOgMP2k="
+        },
+        {
+          "Name": "label",
+          "Value": "js/carousel.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.62zmg0sd1z.js.gz",
+      "AssetFile": "js/carousel.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c6ZMYU+JuhlACXalftYykZP+VLGGBcKy4UkgtUudaYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 15:16:44 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "62zmg0sd1z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c6ZMYU+JuhlACXalftYykZP+VLGGBcKy4UkgtUudaYE="
+        },
+        {
+          "Name": "label",
+          "Value": "js/carousel.js.gz"
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.js",
+      "AssetFile": "js/carousel.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001012145749"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c6ZMYU+JuhlACXalftYykZP+VLGGBcKy4UkgtUudaYE=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/mpmil35UVxtfHs9piIqCefLmgl+w4F7Z/ZPDOgMP2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 15:16:44 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/mpmil35UVxtfHs9piIqCefLmgl+w4F7Z/ZPDOgMP2k="
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.js",
+      "AssetFile": "js/carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/mpmil35UVxtfHs9piIqCefLmgl+w4F7Z/ZPDOgMP2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 15:16:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/mpmil35UVxtfHs9piIqCefLmgl+w4F7Z/ZPDOgMP2k="
+        }
+      ]
+    },
+    {
+      "Route": "js/carousel.js.gz",
+      "AssetFile": "js/carousel.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c6ZMYU+JuhlACXalftYykZP+VLGGBcKy4UkgtUudaYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Jun 2025 15:16:44 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c6ZMYU+JuhlACXalftYykZP+VLGGBcKy4UkgtUudaYE="
         }
       ]
     },

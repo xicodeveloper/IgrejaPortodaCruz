@@ -1,7 +1,168 @@
 ﻿@page "/"
 @rendermode InteractiveServer
+@inject IJSRuntime JS
+
 <PageTitle>HomePage</PageTitle>
 
-<h1>Hello, world!</h1>
-<LanguageSelector/>
+<!-- Seletor de idioma -->
+<span class="language-main">Escolha o idioma</span>
+<div class="language-main">
+    <LanguageSelector/>
+</div>
 
+<div class="main-content">
+    <!-- ===================================================================
+         Cabeçalho com Título + Imagem (side-by-side em desktop, empilhado em mobile)
+         =================================================================== -->
+    <header class="hero-section">
+        <div class="hero-text">
+            <h1 class="fade-in">Bem-vindo a Igreja do Porto da Cruz!</h1>
+            <p class="fade-in delay-1">
+                Somos uma comunidade acolhedora e vibrante, comprometida em viver o amor de Cristo e compartilhar
+                a Boa Nova com todos que chegam até nós. Situada no coração da nossa bela freguesia, nossa igreja é
+                um espaço de fé, esperança e comunhão. Venha fazer parte dessa jornada!
+            </p>
+            <a href="/historia" class="btn-primary fade-in delay-2">Conheça Nossa História</a>
+        </div>
+        <div class="hero-image fade-in delay-1">
+            <img src="img/P-Cruz.jpg" alt="Igreja do Porto da Cruz" />
+        </div>
+    </header>
+
+    <!-- ===================================================================
+         Seção “Nossa missão” com fundo sutil em degrade
+         =================================================================== -->
+    <section id="missao" class="section-missao">
+        <div class="container">
+            <h2 class="section-title fade-in">Nossa missão</h2>
+            <p class="fade-in delay-1">
+                Acreditamos que Deus nos chamou a ser luz e sal para Porto da Cruz e arredores. Aqui, cultivamos
+                adoração sincera, ensino bíblico sólido e serviço prático ao próximo. Por meio de encontros de oração,
+                estudos bíblicos e ações de solidariedade, buscamos fortalecer laços de amor e compaixão, levando a
+                Palavra de Deus a todas as gerações.
+            </p>
+        </div>
+    </section>
+
+    <!-- ===================================================================
+         Seção “O que oferecemos” com cards animados
+         =================================================================== -->
+    <section id="oferecemos" class="section-oferecemos">
+        <div class="container">
+            <h2 class="section-title fade-in">O que oferecemos</h2>
+            <div class="offer-grid">
+                <div class="offer-card fade-in delay-1">
+                    <div class="icon">🤝</div>
+                    <h3>Solidariedade</h3>
+                    <p>Apoio às famílias carenciadas e projetos comunitários.</p>
+                </div>
+                <div class="offer-card fade-in delay-2">
+                    <div class="icon">📖</div>
+                    <h3>Liturgia Bíblica</h3>
+                    <p>Cantos, leituras e reflexões para alimentar a fé.</p>
+                </div>
+                <div class="offer-card fade-in delay-3">
+                    <div class="icon">⛪</div>
+                    <h3>Missas</h3>
+                    <p>Missas semanais e celebrações especiais para toda a comunidade.</p>
+                </div>
+                <div class="offer-card fade-in delay-4">
+                    <div class="icon">🧒</div>
+                    <h3>Catequese</h3>
+                    <p>Encontros de jovens e catequese para crianças com atividades lúdicas.</p>
+                </div>
+                <div class="offer-card fade-in delay-5">
+                    <div class="icon">🙏</div>
+                    <h3>Grupos de Oração</h3>
+                    <p>Momentos de oração e retiros espirituais para renovação da fé.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===================================================================
+         Seção “Próximos Eventos” com lista animada
+         =================================================================== -->
+    <section id="eventos" class="section-eventos">
+        <div class="container">
+            <h2 class="section-title fade-in">Próximos Eventos</h2>
+            <ul class="event-list">
+                <li class="fade-in delay-1">
+                    <span class="event-date">10 de Julho</span>
+                    <strong>Festival de Música Sacra</strong> – 18:00, no salão paroquial.
+                </li>
+                <li class="fade-in delay-2">
+                    <span class="event-date">22 de Agosto</span>
+                    <strong>Noite de Orações e Adoração</strong> – 20:00, na capela principal.
+                </li>
+                <li class="fade-in delay-3">
+                    <span class="event-date">5 de Setembro</span>
+                    <strong>Peregrinação ao Santuário do Bom Jesus</strong> – saída às 06:00.
+                </li>
+                <li class="fade-in delay-4">
+                    <span class="event-date">15 a 17 de Outubro</span>
+                    <strong>Retiro Espiritual de Fim de Semana</strong> – no convento local.
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- ===================================================================
+         Seção “Galeria” transformada em Carrossel responsivo
+         =================================================================== -->
+    <Galeria/>
+
+    <!-- ===================================================================
+         Seções Finais: Contato, Doações e Agendar Missa em layout clean
+         =================================================================== -->
+    <section id="contato-doacoes" class="section-contact-donate">
+        <div class="container grid-two-cols">
+            <!-- Contato -->
+            <div class="contact-card fade-in">
+                <h2 class="section-title">Fale Conosco</h2>
+                <p>
+                    <strong>Endereço:</strong><br />
+                    Rua da Igreja, 123 – Porto da Cruz, Madeira
+                </p>
+                <p>
+                    <strong>Telefone:</strong><br />
+                    (+351) 291 555 123
+                </p>
+                <p>
+                    <strong>Email:</strong><br />
+                    <a href="mailto:paroquia.portodacruz@gmail.com">paroquia.portodacruz@gmail.com</a>
+                </p>
+                <p>
+                    <strong>Horário de atendimento:</strong><br />
+                    Segunda a Sexta, 09:00 – 12:00 e 14:00 – 17:00
+                </p>
+                <button class="btn-primary mt-10">Enviar Mensagem</button>
+            </div>
+            <!-- Doações -->
+            <div class="donate-card fade-in delay-1">
+                <h2 class="section-title">Faça uma Doação</h2>
+                <p>
+                    Sua contribuição fortalece nossa missão. Aceitamos donativos em numerário, vales-refeição ou
+                    bens de primeira necessidade. Veja as opções:
+                </p>
+                <ul class="donation-list">
+                    <li><strong>Depósito Bancário:</strong><br />IBAN PT50 0000 0000 0000 0000 00 (Banco Bem-Fé)</li>
+                    <li><strong>MB WAY:</strong><br />912 345 678 (Chave: igrejaportodacruz)</li>
+                    <li><strong>Vales-Refeição / Alimentos:</strong><br />Entregar na secretaria paroquial.</li>
+                </ul>
+                <button class="btn-secondary mt-10">Doar Agora</button>
+            </div>
+        </div>
+    </section>
+
+    <section id="agendar" class="section-agendar">
+        <div class="container">
+            <h2 class="section-title fade-in">Agendar Missa</h2>
+            <p class="fade-in delay-1">
+                Para agendar uma celebração (intenção de Missa, bodas, aniversário, etc.), preencha o formulário ou
+                entre em contato conosco no horário de atendimento.
+            </p>
+            <button class="btn-primary fade-in delay-2">Formulário de Agendamento</button>
+        </div>
+    </section>
+</div>

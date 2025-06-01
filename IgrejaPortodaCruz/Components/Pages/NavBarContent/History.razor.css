@@ -1,0 +1,42 @@
+
+/* --------------------------------------------------
+   SEÇÃO “Nossa História”: texto + imagem side-by-side
+   -------------------------------------------------- */
+.section-historia {
+    padding: 4rem 0;
+    background: var(--bg-light);
+}
+.section-historia .section-title {
+    font-size: 2rem;
+    color: var(--purple-base);
+    margin-bottom: 1.5rem;
+}
+.historia-text p {
+    font-size: 1.125rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+.historia-text .btn-secondary {
+    display: inline-block;
+    background: var(--gradient-primary);
+    color: var(--bg-white);
+    padding: 0.75rem 1.75rem;
+    font-size: 1rem;
+    border-radius: 8px;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+.historia-text .btn-secondary:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+.historia-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px var(--shadow-light);
+    transition: transform 0.5s ease;
+}
+.historia-image img:hover {
+    transform: scale(1.02);
+}
