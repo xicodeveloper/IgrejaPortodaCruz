@@ -61,8 +61,6 @@ C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\yurnlhmal0-h1s4sie4z3.gz
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\uevrs19bji-4d85u1mtcx.gz
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\9sens3gv5y-0j3bgjxly4.gz
-C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\17rbgett5j-1zd6gngjyt.gz
-C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\0t6sevo14s-1zd6gngjyt.gz
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -77,3 +75,6 @@ C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\IgrejaPortodaCruz.pdb
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\IgrejaPortodaCruz.genruntimeconfig.cache
 C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\ref\IgrejaPortodaCruz.dll
+C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\IgrejaPortodaCruz.sourcelink.json
+C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\17rbgett5j-txxl6teb96.gz
+C:\Users\forof\RiderProjects\IgrejaPortodaCruz\IgrejaPortodaCruz\obj\Debug\net9.0\compressed\0t6sevo14s-txxl6teb96.gz
