@@ -1,0 +1,228 @@
+@page "/calendario"
+@using System.Globalization
+@rendermode InteractiveServer
+
+<h3>Calendário</h3>
+
+<!-- Controles de mês/ano dentro de um row para responsividade -->
+<div class="row gx-2 gy-2 align-items-center mb-3">
+    <!-- Select do Mês -->
+    <div class="col-12 col-sm-auto d-flex align-items-center">
+        <label class="me-2 mb-0">Mês:</label>
+        <select class="form-select form-select-sm w-auto" @onchange="OnMonthChanged">
+            @for (int m = 1; m <= 12; m++)
+            {
+                var nomeMes = new DateTime(1, m, 1)
+                    .ToString("MMMM", CultureInfo.GetCultureInfo("pt-PT"));
+                <option value="@m" selected="@(m == currentMonth)">
+                    @CultureInfo.CurrentCulture.TextInfo.ToTitleCase(nomeMes)
+                </option>
+            }
+        </select>
+    </div>
+
+    <!-- Select do Ano -->
+    <div class="col-12 col-sm-auto d-flex align-items-center">
+        <label class="me-2 mb-0">Ano:</label>
+        <select class="form-select form-select-sm w-auto" @onchange="OnYearChanged">
+            @foreach (var ano in yearOptions)
+            {
+                <option value="@ano" selected="@(ano == currentYear)">
+                    @ano
+                </option>
+            }
+        </select>
+    </div>
+
+    <!-- Botões de navegação rápida -->
+    <div class="col-12 col-sm-auto d-flex align-items-center">
+        <button class="btn btn-outline-primary btn-sm me-2" @onclick="GoToPreviousMonth">
+            « Mês Anterior
+        </button>
+        <button class="btn btn-outline-primary btn-sm" @onclick="GoToNextMonth">
+            Mês Seguinte »
+        </button>
+    </div>
+</div>
+
+<!-- Título do mês/ano centralizado em telas menores -->
+<h4 class="text-center text-sm-start">@currentMonthName @currentYear</h4>
+
+<!-- Tabela dentro de um container responsivo -->
+<div class="table-responsive">
+    <table class="table table-bordered text-center mb-0">
+        <thead class="table-light">
+            <tr>
+                @foreach (var dayName in dayNames)
+                {
+                    <th class="px-1 py-2">@dayName</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var week in weeks)
+            {
+                <tr>
+                    @foreach (var day in week)
+                    {
+                        @if (day == 0)
+                        {
+                            <td class="p-1"></td>
+                        }
+                        else
+                        {
+                            <td class="p-1">@day</td>
+                        }
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@code {
+    // --------- Propriedades de controle de mês/ano ---------
+    private int currentYear;
+    private int currentMonth;
+
+    // Lista de anos exibidos no select (ex.: do ano atual -5 até +5)
+    private List<int> yearOptions = new();
+
+    // Nome legível do mês corrente, ex: "Junho"
+    private string currentMonthName => new DateTime(currentYear, currentMonth, 1)
+                                           .ToString("MMMM", CultureInfo.GetCultureInfo("pt-PT"));
+
+    // Array com abreviações dos dias da semana (em português)
+    private readonly string[] dayNames = new[] { "Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb" };
+
+    // Lista de semanas, onde cada semana é um array de 7 inteiros:
+    // - valor 0 indica célula vazia (antes do dia 1 ou após o último dia do mês)
+    // - valor > 0 indica o número do dia propriamente dito
+    private List<int[]> weeks = new();
+
+    protected override void OnInitialized()
+    {
+        // Inicializa com o mês e ano atuais
+        var hoje = DateTime.Today;
+        currentYear = hoje.Year;
+        currentMonth = hoje.Month;
+
+        // Prepara lista de anos (por exemplo, de hoje.Year-5 até hoje.Year+5)
+        int anoInicial = hoje.Year - 5;
+        int anoFinal = hoje.Year + 5;
+        for (int a = anoInicial; a <= anoFinal; a++)
+        {
+            yearOptions.Add(a);
+        }
+
+        BuildCalendar();
+    }
+
+    private void BuildCalendar()
+    {
+        weeks.Clear();
+
+        // 1. Quantos dias tem o mês selecionado?
+        int daysInMonth = DateTime.DaysInMonth(currentYear, currentMonth);
+
+        // 2. Em que dia da semana cai o dia 1 (Domingo=0 ... Sábado=6)?
+        var firstDayOfMonth = new DateTime(currentYear, currentMonth, 1);
+        int startDayOfWeek = (int)firstDayOfMonth.DayOfWeek;
+
+        // 3. Lista simples de dias [1, 2, 3, ... daysInMonth]
+        var allDays = Enumerable.Range(1, daysInMonth).ToList();
+
+        int index = 0;
+        // Enquanto ainda houver dias para alocar na grade:
+        while (index < allDays.Count)
+        {
+            // Cria uma linha de 7 colunas (uma semana)
+            int[] week = new int[7];
+
+            for (int dow = 0; dow < 7; dow++)
+            {
+                // Se for a primeira semana e ainda não chegamos ao dia 1 do mês, preenche com zero
+                if (weeks.Count == 0 && dow < startDayOfWeek)
+                {
+                    week[dow] = 0;
+                }
+                else if (index < allDays.Count)
+                {
+                    // Atribui o dia válido e avança o índice
+                    week[dow] = allDays[index];
+                    index++;
+                }
+                else
+                {
+                    // Depois de esgotar todos os dias, preenche o restante com zeros
+                    week[dow] = 0;
+                }
+            }
+
+            weeks.Add(week);
+        }
+    }
+
+    private void OnMonthChanged(ChangeEventArgs e)
+    {
+        if (int.TryParse(e.Value?.ToString(), out int novoMes))
+        {
+            currentMonth = novoMes;
+            BuildCalendar();
+        }
+    }
+
+    private void OnYearChanged(ChangeEventArgs e)
+    {
+        if (int.TryParse(e.Value?.ToString(), out int novoAno))
+        {
+            currentYear = novoAno;
+            BuildCalendar();
+        }
+    }
+
+    private void GoToPreviousMonth()
+    {
+        if (currentMonth == 1)
+        {
+            currentMonth = 12;
+            currentYear--;
+        }
+        else
+        {
+            currentMonth--;
+        }
+
+        // Se o ano mudou para além do nosso intervalo em yearOptions, ajuste nele
+        if (!yearOptions.Contains(currentYear))
+        {
+            // Por exemplo, se passamos de Janeiro 2020 para Dez 2019, mas 2019 não está no yearOptions,
+            // aqui travamos no menor ano disponível:
+            currentYear = yearOptions.Min();
+        }
+
+        BuildCalendar();
+    }
+
+    private void GoToNextMonth()
+    {
+        if (currentMonth == 12)
+        {
+            currentMonth = 1;
+            currentYear++;
+        }
+        else
+        {
+            currentMonth++;
+        }
+
+        // Se o ano passou para além do intervalo em yearOptions, ajuste
+        if (!yearOptions.Contains(currentYear))
+        {
+            // Trava no maior ano disponível:
+            currentYear = yearOptions.Max();
+        }
+
+        BuildCalendar();
+    }
+}

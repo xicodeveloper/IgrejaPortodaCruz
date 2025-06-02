@@ -1,4 +1,5 @@
 using IgrejaPortodaCruz.Components;
+using IgrejaPortodaCruz.Services;
 using IgrejaPortodaCruz.Services.DataBase;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,6 +10,9 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlite("Data Source=Data/app.db"));
+
+//existe um mesmo calendario para todos os users
+builder.Services.AddSingleton<ScheduleService>();
 
 var app = builder.Build();
 

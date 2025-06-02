@@ -52,13 +52,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IgrejaPortodaCruz.zjs6546tuj.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8dQ\u002BnY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"25024"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228dQ\u002BnY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 15:23:57 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"25024"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228dQ\u002BnY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 09:39:25 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/IgrejaPortodaCruz.zjs6546tuj.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IgrejaPortodaCruz.zjs6546tuj.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zjs6546tuj"},{"Name":"integrity","Value":"sha256-8dQ\u002BnY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc="},{"Name":"label","Value":"_content/IgrejaPortodaCruz/IgrejaPortodaCruz.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25024"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228dQ\u002BnY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Jun 2025 15:23:57 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25024"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228dQ\u002BnY3qUlrQMTWc9cBm6Mah1IAP36TMaje4kuHixPc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 09:39:25 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/IgrejaPortodaCruz/img/adro.77h7op0ycs.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\adro.jpg'))</AssetFile>

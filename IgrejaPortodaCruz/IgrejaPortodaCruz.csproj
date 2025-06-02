@@ -8,10 +8,13 @@
 
     <ItemGroup>
       <Folder Include="Migrations\" />
+      <Folder Include="Services\Auth\" />
+      <Folder Include="Services\Models\Admin\" />
       <Folder Include="wwwroot\assets\icons\" />
     </ItemGroup>
 
     <ItemGroup>
+      <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.5">
         <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         <PrivateAssets>all</PrivateAssets>

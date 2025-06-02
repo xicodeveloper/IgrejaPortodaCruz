@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IgrejaPortodaCruz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbe66a05216bba482d999a5c4b294989efa52fe8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4769bddfa3279121538b901769e20f924b04b00")]
 [assembly: System.Reflection.AssemblyProductAttribute("IgrejaPortodaCruz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IgrejaPortodaCruz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
